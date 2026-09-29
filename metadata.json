@@ -1,0 +1,6 @@
+{
+  "name": "ITS 야간 단속 하이브리드 조명 탐색기",
+  "description": "지능형 교통 시스템(ITS) & ANPR 야간 단속 하이브리드(850nm IR + 백색/적색) 조명 기술 분석, 150mm+ 대구경 광학 시뮬레이터 및 PWM 모션 블러 계산기",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
